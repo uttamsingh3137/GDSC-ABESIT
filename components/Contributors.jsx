@@ -54,15 +54,15 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+        id: '0183' ,
+        name: "Uttam Singh",
+        img: "file:///C:/Users/uttam/OneDrive/Desktop///WhatsApp%20Image%202023-10-09%20at%2016.19.45_de1142e8.png",
+        role: "Contributor",
+        social1: "https://www.linkedin.com/in/uttam-singh-38878a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        social2: "https://instagram.com/deno_pratap_singh_?igshid=OGQ5ZDc2ODk2ZA==",
+        desc: "Fingers on!"
+      },
   ];
 
 
